@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: rgb(255, 255, 255);
+}
+.msg-enviada {
+    text-align: center;
+    margin-top: 20rem;
+    font-weight: bold;
+    font-family: RobotoFlex;
+    letter-spacing: 3px;
+    color: rgb(150, 150, 150);
+}
+
+.button1 {
+    background: rgba(181, 135, 135, 1);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 25px;
+    border-radius: 4px;
+    margin-top: 2rem;
+    font-family: Cairo-VariableFont;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 52.5rem;
+}
+a {
+    text-decoration: none;
+}
