@@ -319,6 +319,18 @@ footer p {
 }
 
 @media (max-width: 2560px){
+
+
+    * {
+        margin: 0;
+        padding: 0;
+        
+    }
+    
+    html, body {
+        overflow-x: hidden;
+    }
+
     #main ul {
     margin-left: 800px;
     }
@@ -369,6 +381,16 @@ footer p {
 }
 
 @media (max-width: 1920px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: 4rem;
         margin-left: -350px;
@@ -411,6 +433,16 @@ footer p {
 }
 
 @media (max-width: 1900px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     .text-all #text-name {
         margin-left: 350px;
         margin-top: -24rem;
@@ -436,6 +468,16 @@ footer p {
 }
 
 @media (max-width: 1680px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
 
     #main ul {
         margin-left: 500px;
@@ -470,6 +512,16 @@ footer p {
 }
 
 @media (max-width: 1600px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
 
     #namelogo {
         margin-top: 4rem;
@@ -511,6 +563,16 @@ footer p {
 }
 
 @media (max-width: 1440px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: 4rem;
         margin-left: -350px;
@@ -555,6 +617,16 @@ footer p {
 }
 
 @media (max-width: 1280px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: 4rem;
         margin-left: -310px;
@@ -599,6 +671,16 @@ footer p {
 }
 
 @media (max-width: 1024px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: 4rem;
         margin-left: -250px;
@@ -678,6 +760,16 @@ footer p {
 }
 
 @media (max-width: 800px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: 4rem;
         margin-left: -150px;
@@ -831,6 +923,16 @@ footer p {
 }
 
 @media (max-width: 768px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: 4rem;
         margin-left: -150px;
@@ -1006,6 +1108,16 @@ footer p {
 }
 
 @media (max-width: 720px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: -3.5rem;
         margin-left: -120px;
@@ -1249,6 +1361,16 @@ footer p {
 }
 
 @media (max-width: 600px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: -3.5rem;
         margin-left: -140px;
@@ -1459,6 +1581,16 @@ footer p {
 }
 
 @media (max-width: 480px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #main ul {
         width: 400px;
     }
@@ -1523,6 +1655,16 @@ footer p {
 }
 
 @media (max-width: 425px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
 
     #namelogo {
         margin-top: -3.5rem;
@@ -1640,6 +1782,16 @@ footer p {
 }
 
 @media (max-width: 414px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: -3.5rem;
         margin-left: -150px;
@@ -1779,6 +1931,16 @@ footer p {
 }
 
 @media (max-width: 393px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: -3.5rem;
         margin-left: -150px;
@@ -1915,6 +2077,16 @@ footer p {
 }
 
 @media (max-width: 375px){
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #hamburger {
         width: 20px;
         border-top: 2px solid;
@@ -1940,6 +2112,16 @@ footer p {
 }
 
 @media (max-width: 360px) {
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #hamburger {
         width: 20px;
         border-top: 2px solid;
@@ -1965,6 +2147,16 @@ footer p {
 }
 
 @media (max-width: 320px) {
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body {
+    overflow-x: hidden;
+}
     #namelogo {
         margin-top: -3.5rem;
         margin-left: -150px;
