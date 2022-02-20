@@ -1214,6 +1214,8 @@ html, body {
          padding-top: 8rem;
      }
 
+
+
      #main ul li {
         margin-top: 10px;
         margin-left: -20px;
@@ -1245,6 +1247,13 @@ html, body {
     #main ul li a{
         margin-left: 2px;
         font-size: 14px;
+        background-color: #ffffff;
+        color: #302323;
+    }
+
+    #main ul li a:hover {
+        background-color: rgb(255, 255, 255);
+        color: #B58787;
     }
 
     .text-all #text-name {
