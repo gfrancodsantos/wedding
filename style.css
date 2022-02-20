@@ -5,6 +5,10 @@
     
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 #main {
     background: rgba(181, 135, 135, 1);
     list-style: none;
