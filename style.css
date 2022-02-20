@@ -34,7 +34,7 @@ a {
 
 #main ul {
     margin-left: 512px;
-    margin-top: -2.3rem;
+    margin-top: -2.6rem;
     width: 608px;
     padding-left: 0;
     float: left;
@@ -48,14 +48,19 @@ a {
 
 #main ul li a {
     text-decoration: none;
-    color: rgb(68, 68, 68);
+    color: rgb(226, 226, 226);
     font-family: RobotoFlex;
     font-size: 0.9rem;
-    margin-left: 50px;
+    margin-left: -30px;
+    background-color: rgb(187, 141, 141);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 #main ul li a:hover {
-    color: rgb(204, 204, 204);
+    background-color: rgb(61, 61, 61);
 }
 
 .FixoNoTopo {
@@ -333,6 +338,15 @@ footer p {
 
     #main ul {
     margin-left: 800px;
+    margin-top: -2.7rem;
+
+    }
+
+    #main ul li a{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     #namelogo {
@@ -353,7 +367,7 @@ footer p {
         width: 100%;
         height: 500px;
         filter: brightness(60%);
-        margin-top: -0.5rem;
+        margin-top: -0.4rem;
         position: relative;
     }
 
@@ -400,7 +414,6 @@ html, body {
 
     #main ul {
         margin-left: 580px;
-        margin-top: -2.3rem;
         width: 608px;
         padding-left: 0;
         float: left;
@@ -481,7 +494,6 @@ html, body {
 
     #main ul {
         margin-left: 500px;
-        margin-top: -2.3rem;
         width: 608px;
         padding-left: 0;
         float: left;
@@ -532,7 +544,6 @@ html, body {
 
     #main ul {
         margin-left: 500px;
-        margin-top: -2.3rem;
         width: 608px;
         padding-left: 0;
         float: left;
@@ -582,7 +593,6 @@ html, body {
 
     #main ul {
         margin-left: 415px;
-        margin-top: -2.3rem;
         width: 608px;
         padding-left: 0;
         float: left;
@@ -636,7 +646,6 @@ html, body {
 
     #main ul {
         margin-left: 350px;
-        margin-top: -2.3rem;
         width: 608px;
         padding-left: 0;
         float: left;
@@ -683,21 +692,23 @@ html, body {
 }
     #namelogo {
         margin-top: 4rem;
-        margin-left: -250px;
+        margin-left: -240px;
         width: 224px;
         font-size: 25px;
     }
 
     #main ul {
-        margin-left: 290px;
-        margin-top: -2.3rem;
+        margin-left: 260px;
         width: 608px;
         padding-left: 0;
         float: left;
     }
 
     #main ul li a{
-        margin-left: 5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     .text-all #text-name {
@@ -774,19 +785,22 @@ html, body {
         margin-top: 4rem;
         margin-left: -150px;
         width: 224px;
-        font-size: 24px;
+        font-size: 20px;
     }
 
     #main ul {
-        margin-left: 184px;
-        margin-top: -2.3rem;
+        margin-left: 190px;
         width: 608px;
         padding-left: 0;
         float: left;
     }
 
     #main ul li a{
-        margin-left: 3px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: -30px;
     }
 
     .text-all #text-name {
@@ -941,15 +955,18 @@ html, body {
     }
 
     #main ul {
-        margin-left: 174px;
-        margin-top: -2.3rem;
+        margin-left: 180px;
         width: 608px;
         padding-left: 0;
         float: left;
     }
 
     #main ul li a{
-        margin-left: 2px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: -30px;
         font-size: 14px;
     }
 
