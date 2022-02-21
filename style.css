@@ -5,6 +5,10 @@
     
 }
 
+@font-face {
+    font-family: GreatVibes-Regular;
+    src: url(./fonts/GreatVibes-Regular.ttf);
+}
 html, body {
     overflow-x: hidden;
 }
@@ -22,6 +26,7 @@ html, body {
     color: #ffffff;
     width: 224px;
     font-size: 25px;
+    font-family: GreatVibes-Regular;
 }
 
 a {
@@ -98,6 +103,7 @@ a {
     font-size: 60px;
     color: #ffffff;
     position: absolute;
+    font-family: GreatVibes-Regular;
 }
 
 .text-all #text-date {
@@ -338,7 +344,7 @@ footer p {
 
     #main ul {
     margin-left: 800px;
-    margin-top: -2.7rem;
+    margin-top: -2.8rem;
 
     }
 
@@ -350,7 +356,7 @@ footer p {
     }
 
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.5rem;
         margin-left: -352px;
         width: 288px;
         font-size: 29px;
@@ -379,7 +385,7 @@ footer p {
     }
     
     .text-all #text-date {
-        margin-left: 704px;
+        margin-left: 640px;
         margin-top: -13rem;
         font-size: 30px;
         position: absolute;
@@ -406,7 +412,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.5rem;
         margin-left: -350px;
         width: 224px;
         font-size: 25px;
@@ -463,7 +469,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 470px;
+        margin-left: 435px;
         margin-top: -17rem;
   
     }
@@ -506,7 +512,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 410px;
+        margin-left: 380px;
         margin-top: -17rem;
   
     }
@@ -536,7 +542,7 @@ html, body {
 }
 
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.5rem;
         margin-left: -400px;
         width: 224px;
         font-size: 25px;
@@ -556,7 +562,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 315px;
+        margin-left: 285px;
         margin-top: -17rem;
   
     }
@@ -585,7 +591,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.8rem;
         margin-left: -350px;
         width: 224px;
         font-size: 25px;
@@ -596,6 +602,7 @@ html, body {
         width: 608px;
         padding-left: 0;
         float: left;
+        margin-top: -2.8rem;
     }
 
     .text-all #text-name {
@@ -605,7 +612,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 250px;
+        margin-left: 210px;
         margin-top: -17rem;
   
     }
@@ -638,7 +645,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.8rem;
         margin-left: -310px;
         width: 224px;
         font-size: 25px;
@@ -658,9 +665,31 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 250px;
+        margin-left: 210px;
         margin-top: -17rem;
   
+    }
+
+    .title h1 {
+        color: rgba(170, 105, 105, 1);
+        margin-top: 5rem;
+        font-size: 30px;
+        justify-content: center;
+        position: absolute;
+        margin-top: 2rem;
+    }
+
+    .title {
+        justify-content: center;
+        display: flex;
+    }
+
+    .title p {
+        color:rgba(51, 51, 51, 1);
+        font-size: 16px;
+        text-align: center;
+        width: 800px;
+        margin-top: 6rem;
     }
 
     .about p {
@@ -691,7 +720,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.5rem;
         margin-left: -240px;
         width: 224px;
         font-size: 25px;
@@ -719,9 +748,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 154px;
+        margin-left: 140px;
         margin-top: -12rem;
-  
+        font-size: 19px;
     }
 
     .title {
@@ -782,7 +811,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.8rem;
         margin-left: -150px;
         width: 224px;
         font-size: 20px;
@@ -811,9 +840,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 120px;
+        margin-left: 130px;
         margin-top: -12rem;
-  
+        font-size: 16px;
     }
 
     .title {
@@ -933,8 +962,6 @@ html, body {
     }
 }
 
-@media (max-width: 800px){
-}
 
 @media (max-width: 768px){
 
@@ -948,7 +975,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: 4rem;
+        margin-top: 4.9rem;
         margin-left: -150px;
         width: 224px;
         font-size: 23px;
@@ -978,9 +1005,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 125px;
+        margin-left: 120px;
         margin-top: -12rem;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .title {
@@ -1136,7 +1163,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -2.9rem;
         margin-left: -120px;
         width: 224px;
         font-size: 23px;
@@ -1266,7 +1293,7 @@ html, body {
     .text-all #text-date {
         margin-left: 125px;
         margin-top: -12rem;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .title {
@@ -1398,7 +1425,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -3rem;
         margin-left: -140px;
         width: 224px;
         font-size: 23px;
@@ -1428,9 +1455,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 105px;
+        margin-left: 92px;
         margin-top: -7.5rem;
-        font-size: 15px;
+        font-size: 12px;
     }
 
     #main ul {
@@ -1622,7 +1649,7 @@ html, body {
     }
 
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -2.8rem;
         margin-left: -140px;
         width: 224px;
         font-size: 18px;
@@ -1661,9 +1688,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 80px;
+        margin-left: 75px;
         margin-top: -7.5rem;
-        font-size: 13px;
+        font-size: 10px;
     }
 
     .imglove img {
@@ -1693,7 +1720,7 @@ html, body {
 }
 
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -2.8rem;
         margin-left: -150px;
         width: 224px;
         font-size: 16px;
@@ -1748,7 +1775,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 70px;
+        margin-left: 50px;
         margin-top: -6rem;
         font-size: 10px;
     }
@@ -1819,7 +1846,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -2.8rem;
         margin-left: -150px;
         width: 224px;
         font-size: 16px;
@@ -1874,7 +1901,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 70px;
+        margin-left: 45px;
         margin-top: -6rem;
         font-size: 10px;
     }
@@ -1968,7 +1995,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -2.8rem;
         margin-left: -150px;
         width: 224px;
         font-size: 16px;
@@ -2023,7 +2050,7 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 70px;
+        margin-left: 50px;
         margin-top: -6rem;
         font-size: 10px;
     }
@@ -2131,9 +2158,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 53px;
+        margin-left: 45px;
         margin-top: -6rem;
-        font-size: 10px;
+        font-size: 9px;
     }
 }
 
@@ -2166,9 +2193,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 48px;
+        margin-left: 36px;
         margin-top: -6rem;
-        font-size: 10px;
+        font-size: 9px;
     }
 }
 
@@ -2184,7 +2211,7 @@ html, body {
     overflow-x: hidden;
 }
     #namelogo {
-        margin-top: -3.5rem;
+        margin-top: -2.7rem;
         margin-left: -150px;
         width: 224px;
         font-size: 12px;
@@ -2208,9 +2235,9 @@ html, body {
     }
     
     .text-all #text-date {
-        margin-left: 47px;
+        margin-left: 33px;
         margin-top: -5rem;
-        font-size: 9px;
+        font-size: 7.5px;
     }
 
     .imglove img {
